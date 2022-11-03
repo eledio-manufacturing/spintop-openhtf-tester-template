@@ -1,0 +1,1 @@
+Each python file defines a different product through its static parameters.

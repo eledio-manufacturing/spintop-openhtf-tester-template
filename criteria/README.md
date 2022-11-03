@@ -1,0 +1,1 @@
+The criteria folder holds the global criteria for the test bench. Sequence specific criteria can be defined at the sequence level.

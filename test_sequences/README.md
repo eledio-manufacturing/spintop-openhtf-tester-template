@@ -1,0 +1,1 @@
+The sequences are separated in folders which hold the sequence and test cases declarations, the static configuration and the criterion specific to the sequence.
