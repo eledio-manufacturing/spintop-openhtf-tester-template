@@ -1,0 +1,8 @@
+spintop-openhtf[server]
+requests
+boto3
+paho-mqtt
+smbus2
+cryptography==2.8
+python-dotenv
+pyopenssl
