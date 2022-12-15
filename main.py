@@ -34,7 +34,7 @@ FORM_LAYOUT = {
 """ Test Plan """
 
 # This defines the name of the testbench.
-plan = TestPlan('EVCC')
+plan = TestPlan('Test')
 
 
 @plan.trigger('Configuration of test (select DUT ID)')
