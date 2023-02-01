@@ -1,0 +1,1 @@
+In default, to this directory, test results are stored.
